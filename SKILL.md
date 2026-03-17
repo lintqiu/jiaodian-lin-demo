@@ -1,10 +1,10 @@
 ---
-name: paid-lindada-demo
+name: jiaodian-lin-demo
 description: 收费技能示例模板 - 带授权验证，演示如何在 ClawHub 发布付费技能
 license:
 ---
 
-# 收费技能示例 (paid-lindada-demo)
+# 收费技能示例 (jiaodian-lin-demo)
 
 这是一个演示**如何在 ClawHub 发布收费技能**的模板。展示了授权验证的实现方式。
 
